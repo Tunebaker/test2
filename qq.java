@@ -1,0 +1,2 @@
+class Kolbass extends Iterable {
+}
